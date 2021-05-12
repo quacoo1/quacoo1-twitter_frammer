@@ -1,0 +1,26 @@
+{
+  "name": "twitter-framer",
+  "version": "1.0.0",
+  "description": "stylizing iconic tweets",
+  "main": "index.js",
+  "scripts": {
+    "test": "stat"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quacoo1/twitter_frammer.git"
+  },
+  "keywords": [
+    "twitter"
+  ],
+  "author": "mystic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quacoo1/twitter_frammer/issues"
+  },
+  "homepage": "https://github.com/quacoo1/twitter_frammer#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "twitter": "^1.7.1"
+  }
+}
